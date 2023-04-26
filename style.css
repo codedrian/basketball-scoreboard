@@ -1,0 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/cursed-timer-ulil');
+
+html {
+    background-color:rgb(67, 70, 70);
+    color: white;
+}
+#guest-score, #home-score{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
