@@ -4,6 +4,9 @@ html {
     background-color:rgb(67, 70, 70);
     color: white;
 }
-#guest-score, #home-score{
+#guest-score, #home-score, #period-display {
     font-family: 'Cursed Timer ULiL', sans-serif;
 }
+/* * {
+    outline: 1px solid red;
+} */
